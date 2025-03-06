@@ -53,6 +53,7 @@ You are welcome to contribute to this project! If you want to make improvements,
 For any inquiries regarding this license, please contact **Talysson Aguinário Grande dos Santos** via email or discord.
 
 Discord: mike7581
+
 Email: mike7581@outlook.com.br
 
 ---
