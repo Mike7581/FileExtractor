@@ -1,47 +1,59 @@
-```txt
-# FileExtractor SOFTWARE LICENSE AGREEMENT
+# MIT License
 
-**Version 1.0 - Effective Date: [2025-02-05]**
+Copyright © 2025 Talysson Aguinário Grande dos Santos
 
-## 1. DEFINITIONS
-1.1. "Software" refers to **FileExtractor**, including any updates, modifications, and associated documentation.
-1.2. "Owner" refers to **Talysson Aguinário Grande dos Santos**.
-1.3. "User" refers to any individual or entity using or accessing the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 2. OWNERSHIP AND RIGHTS
-2.1. The Software is the exclusive property of the Owner. All rights, title, and interest, including intellectual property rights, remain with the Owner.
-2.2. No rights or licenses are granted to the User except as explicitly stated in this Agreement.
+1. **Ownership and Attribution**:
+   - The above copyright notice and this permission notice shall be included in all
+     copies or substantial portions of the Software.
+   - The Software remains the exclusive property of **Talysson Aguinário Grande dos Santos**.
 
-## 3. RESTRICTIONS
-3.1. The User **may not**:
-   - Modify, alter, or create derivative works of the Software.
-   - Distribute, sublicense, rent, lease, or sell the Software in any form.
-   - Reverse engineer, decompile, or disassemble the Software.
-   - Claim ownership or authorship of the Software.
-   - Use the Software for any illegal or unauthorized purpose.
+2. **Restrictions**:
+   - The Software is provided "as is", without warranty of any kind, express or
+     implied, including but not limited to the warranties of merchantability,
+     fitness for a particular purpose, and noninfringement.
+   - In no event shall the authors or copyright holders be liable for any claim,
+     damages, or other liability, whether in an action of contract, tort, or otherwise,
+     arising from, out of, or in connection with the Software or the use or other
+     dealings in the Software.
 
-## 4. LIMITED USE LICENSE
-4.1. The Owner grants the User a limited, non-transferable, non-exclusive, and revocable right to use the Software for personal or internal business purposes only.
-4.2. This license **does not** grant permission to distribute, modify, or share the Software with third parties.
+3. **Limited Use License**:
+   - The license grants the user a non-exclusive, worldwide, royalty-free license to
+     use, copy, modify, and distribute the Software for personal or internal business
+     purposes.
+   - The user **may not** claim ownership or authorship of the Software.
 
-## 5. TERMINATION
-5.1. Any violation of this Agreement results in immediate termination of the User’s rights to use the Software.
-5.2. Upon termination, the User must cease all use of the Software and delete any copies in their possession.
+4. **Termination**:
+   - Any violation of this license results in immediate termination of the user’s rights
+     to use the Software.
+   - Upon termination, the user must cease all use of the Software and delete any copies
+     in their possession.
 
-## 6. DISCLAIMER OF WARRANTY
-6.1. The Software is provided **"as is"** without any warranties, express or implied.
-6.2. The Owner makes no guarantees regarding the functionality, reliability, or fitness for a particular purpose.
-6.3. The Owner is not liable for any damages arising from the use or inability to use the Software.
-
-## 7. GOVERNING LAW
-7.1. This Agreement shall be governed and construed in accordance with the laws of [Jurisdiction], without regard to conflict of law principles.
-7.2. Any disputes arising from this Agreement shall be resolved in the courts of [Jurisdiction].
-
-## 8. CONTACT INFORMATION
-For any inquiries regarding this license, please contact **Talysson Aguinário Grande dos Santos**.
+5. **Governing Law**:
+   - This license shall be governed and construed in accordance with the laws of Brazil,
+     without regard to conflict of law principles.
+   - Any disputes arising from this license shall be resolved in the courts of Brazil.
 
 ---
 
-**Copyright © [2025] Talysson Aguinário Grande dos Santos. All rights reserved.**
+## Contributions and Pull Requests
 
-```
+You are welcome to contribute to this project! If you want to make improvements, fix bugs, or add new features, feel free to submit **pull requests**. By contributing, you agree that your contributions will be licensed under the same MIT License as this project.
+
+---
+
+## Contact Information
+
+For any inquiries regarding this license, please contact **Talysson Aguinário Grande dos Santos** via email or discord.
+Discord: mike7581
+Email: mike7581@outlook.com.br
+
+---
+
+**Copyright © 2025 Talysson Aguinário Grande dos Santos. All rights reserved.**
