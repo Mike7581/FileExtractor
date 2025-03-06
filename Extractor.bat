@@ -1,5 +1,5 @@
 @echo off
-title Extrator de Arquivos - GitHub
+title Extrator de Arquivos
 :inicio
 cls
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
