@@ -1,10 +1,25 @@
 @echo off
+chcp 65001
 title Extrator de Arquivos
 setlocal enabledelayedexpansion
 color 0E
 
-:: Configurações
-set "python_cmd=python"
+:: Verifica se o launcher "py" está instalado; caso não esteja, tenta o "python"
+where py >nul 2>&1
+if errorlevel 1 (
+    where python >nul 2>&1
+    if errorlevel 1 (
+        echo Python não encontrado! Instale primeiro:
+        echo https://www.python.org/downloads/
+        timeout 10
+        exit /b 1
+    ) else (
+        set "python_cmd=python"
+    )
+) else (
+    set "python_cmd=py"
+)
+
 set "python_script=extrator.py"
 
 :: Mensagens
@@ -13,14 +28,6 @@ set "msg_invalid_folder=Pasta inválida: "
 set "msg_no_folder=Nenhuma pasta selecionada!"
 set "msg_decompile_prompt=Deseja decompilar arquivos .jar? (S/N): "
 set "msg_processing=Processando... Aguarde."
-
-:: Verifica Python
-where %python_cmd% >nul 2>&1 || (
-    echo %msg_no_python%
-    echo https://www.python.org/downloads/
-    timeout 10
-    exit /b 1
-)
 
 :inicio
 cls
