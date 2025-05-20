@@ -140,8 +140,6 @@ def abrir_interface():
     progresso_label = tk.Label(janela, text="")
     progresso_label.pack()
 
-    tk.Label(janela, text="by ChatGPT + você 😎", font=("Arial", 8), fg="gray").pack(side=tk.BOTTOM, pady=10)
-
     janela.mainloop()
 
 if __name__ == "__main__":
